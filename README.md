@@ -15,6 +15,6 @@ Added authentication with facebook using passport js.
 [passport-facebook](http://www.passportjs.org/packages/passport-facebook/)
 
 
-This a repo that will be used as a reference in future.
+This is a repo that will be used as a reference in future.
 
 P.S. Just learning to code...
